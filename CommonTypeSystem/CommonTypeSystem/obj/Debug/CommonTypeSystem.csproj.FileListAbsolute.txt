@@ -1,0 +1,6 @@
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe.config
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.pdb
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.csprojResolveAssemblyReference.cache
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.exe
+E:\C#\Tree\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.pdb

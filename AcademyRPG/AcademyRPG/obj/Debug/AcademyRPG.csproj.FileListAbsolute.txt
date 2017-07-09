@@ -1,0 +1,7 @@
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Dropbox\Work\VariousTests\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+E:\C#\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+E:\C#\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb

@@ -1,0 +1,5 @@
+D:\C#\Tree\ObjectsHomework\FindingHypotenuse\bin\Debug\FindingHypotenuse.exe.config
+D:\C#\Tree\ObjectsHomework\FindingHypotenuse\bin\Debug\FindingHypotenuse.exe
+D:\C#\Tree\ObjectsHomework\FindingHypotenuse\bin\Debug\FindingHypotenuse.pdb
+D:\C#\Tree\ObjectsHomework\FindingHypotenuse\obj\Debug\FindingHypotenuse.exe
+D:\C#\Tree\ObjectsHomework\FindingHypotenuse\obj\Debug\FindingHypotenuse.pdb

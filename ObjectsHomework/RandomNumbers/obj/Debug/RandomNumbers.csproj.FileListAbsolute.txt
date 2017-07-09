@@ -1,0 +1,5 @@
+D:\C#\Tree\ObjectsHomework\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+D:\C#\Tree\ObjectsHomework\RandomNumbers\bin\Debug\RandomNumbers.exe
+D:\C#\Tree\ObjectsHomework\RandomNumbers\bin\Debug\RandomNumbers.pdb
+D:\C#\Tree\ObjectsHomework\RandomNumbers\obj\Debug\RandomNumbers.exe
+D:\C#\Tree\ObjectsHomework\RandomNumbers\obj\Debug\RandomNumbers.pdb

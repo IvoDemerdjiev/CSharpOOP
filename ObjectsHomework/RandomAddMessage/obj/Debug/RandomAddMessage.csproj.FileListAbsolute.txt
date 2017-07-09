@@ -1,0 +1,6 @@
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\bin\Debug\RandomAddMessage.exe.config
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\bin\Debug\RandomAddMessage.exe
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\bin\Debug\RandomAddMessage.pdb
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\obj\Debug\RandomAddMessage.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\obj\Debug\RandomAddMessage.exe
+D:\C#\Tree\ObjectsHomework\RandomAddMessage\obj\Debug\RandomAddMessage.pdb

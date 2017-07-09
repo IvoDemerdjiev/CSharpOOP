@@ -1,0 +1,6 @@
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\bin\Debug\MyOwnSpace.exe.config
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\obj\Debug\MyOwnSpace.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\bin\Debug\MyOwnSpace.exe
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\bin\Debug\MyOwnSpace.pdb
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\obj\Debug\MyOwnSpace.exe
+D:\C#\Tree\ObjectsHomework\MyOwnSpace\obj\Debug\MyOwnSpace.pdb

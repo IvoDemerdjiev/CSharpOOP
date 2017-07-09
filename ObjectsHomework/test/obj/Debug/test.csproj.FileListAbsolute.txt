@@ -1,0 +1,6 @@
+D:\C#\Tree\ObjectsHomework\test\bin\Debug\test.exe.config
+D:\C#\Tree\ObjectsHomework\test\bin\Debug\test.exe
+D:\C#\Tree\ObjectsHomework\test\bin\Debug\test.pdb
+D:\C#\Tree\ObjectsHomework\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\C#\Tree\ObjectsHomework\test\obj\Debug\test.exe
+D:\C#\Tree\ObjectsHomework\test\obj\Debug\test.pdb

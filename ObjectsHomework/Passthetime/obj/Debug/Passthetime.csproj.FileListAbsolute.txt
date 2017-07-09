@@ -1,0 +1,5 @@
+D:\C#\Tree\ObjectsHomework\Passthetime\bin\Debug\Passthetime.exe.config
+D:\C#\Tree\ObjectsHomework\Passthetime\bin\Debug\Passthetime.exe
+D:\C#\Tree\ObjectsHomework\Passthetime\bin\Debug\Passthetime.pdb
+D:\C#\Tree\ObjectsHomework\Passthetime\obj\Debug\Passthetime.exe
+D:\C#\Tree\ObjectsHomework\Passthetime\obj\Debug\Passthetime.pdb

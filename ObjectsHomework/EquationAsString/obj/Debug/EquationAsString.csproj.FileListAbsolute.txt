@@ -1,0 +1,5 @@
+D:\C#\Tree\ObjectsHomework\EquationAsString\bin\Debug\EquationAsString.exe.config
+D:\C#\Tree\ObjectsHomework\EquationAsString\bin\Debug\EquationAsString.exe
+D:\C#\Tree\ObjectsHomework\EquationAsString\bin\Debug\EquationAsString.pdb
+D:\C#\Tree\ObjectsHomework\EquationAsString\obj\Debug\EquationAsString.exe
+D:\C#\Tree\ObjectsHomework\EquationAsString\obj\Debug\EquationAsString.pdb

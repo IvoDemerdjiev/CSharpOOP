@@ -1,0 +1,6 @@
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe.config
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\bin\Debug\DayOfTheWeek.pdb
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\obj\Debug\DayOfTheWeek.exe
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\obj\Debug\DayOfTheWeek.pdb
+D:\C#\Tree\ObjectsHomework\DayOfTheWeek\obj\Debug\DayOfTheWeek.csprojResolveAssemblyReference.cache

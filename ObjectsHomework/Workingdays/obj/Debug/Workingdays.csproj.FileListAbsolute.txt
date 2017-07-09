@@ -1,0 +1,6 @@
+D:\C#\Tree\ObjectsHomework\Workingdays\bin\Debug\Workingdays.exe.config
+D:\C#\Tree\ObjectsHomework\Workingdays\bin\Debug\Workingdays.exe
+D:\C#\Tree\ObjectsHomework\Workingdays\bin\Debug\Workingdays.pdb
+D:\C#\Tree\ObjectsHomework\Workingdays\obj\Debug\Workingdays.exe
+D:\C#\Tree\ObjectsHomework\Workingdays\obj\Debug\Workingdays.pdb
+D:\C#\Tree\ObjectsHomework\Workingdays\obj\Debug\Workingdays.csprojResolveAssemblyReference.cache

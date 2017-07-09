@@ -1,0 +1,5 @@
+D:\C#\Tree\ObjectsHomework\StringSum\bin\Debug\StringSum.exe.config
+D:\C#\Tree\ObjectsHomework\StringSum\bin\Debug\StringSum.exe
+D:\C#\Tree\ObjectsHomework\StringSum\bin\Debug\StringSum.pdb
+D:\C#\Tree\ObjectsHomework\StringSum\obj\Debug\StringSum.exe
+D:\C#\Tree\ObjectsHomework\StringSum\obj\Debug\StringSum.pdb

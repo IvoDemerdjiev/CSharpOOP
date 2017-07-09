@@ -1,0 +1,6 @@
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.exe.config
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.exe
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\bin\Debug\OOPPrinciplesPartTwo.pdb
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\OOPPrinciplesPartTwo.csprojResolveAssemblyReference.cache
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\OOPPrinciplesPartTwo.exe
+E:\C#\Tree\OOPPrinciplesPartTwo\OOPPrinciplesPartTwo\obj\Debug\OOPPrinciplesPartTwo.pdb

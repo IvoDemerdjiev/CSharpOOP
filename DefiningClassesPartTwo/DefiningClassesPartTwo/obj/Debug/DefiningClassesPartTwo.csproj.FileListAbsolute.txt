@@ -1,0 +1,6 @@
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe.config
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.pdb
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.exe
+E:\C#\Tree\DefiningClassesPartTwo\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.pdb
